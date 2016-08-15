@@ -12,6 +12,7 @@ import org.junit.Test;
 public class AppTest {
     private UserDaoImpl userDao = new UserDaoImpl();
 
+
     @Test
     public void testsave(){
         Session session = null;
