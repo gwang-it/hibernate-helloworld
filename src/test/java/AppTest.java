@@ -18,6 +18,7 @@ public class AppTest {
         Transaction tx = null;
         session = userDao.getCurrentSession();
         tx = session.getTransaction();
+
         try{
             tx.begin();
             User user = new User();
