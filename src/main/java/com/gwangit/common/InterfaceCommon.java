@@ -1,19 +1,19 @@
-package com.gwangit.dao.common;
+package com.gwangit.common;
 
 import java.io.Serializable;
 import java.util.List;
 
 
-public interface InterfaceDao<T extends Serializable> {
+public interface InterfaceCommon<T extends Serializable> {
+
     T findOne(final long id);
 
     List<T> findAll();
 
     void create(final T entity);
 
-    T update(final T entity);
+    void update(final T entity);
 
     void delete(final T entity);
 
-    void deleteById(final long entityId);
 }

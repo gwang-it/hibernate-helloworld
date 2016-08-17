@@ -1,0 +1,124 @@
+2016-08-17 11:48:08 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 11:48:08 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 11:48:08 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 11:48:08 WARN  org.hibernate.orm.deprecation     - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2016-08-17 11:48:09 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 11:48:09 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 11:48:09 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 11:48:09 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 11:48:09 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 11:48:09 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 11:48:09 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 11:48:10 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 11:49:52 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 11:49:52 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 11:49:52 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 11:49:52 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 11:49:52 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 11:49:52 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 11:49:52 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 11:49:52 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 11:49:52 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 11:49:53 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 11:49:53 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 11:57:42 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 11:57:42 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 11:57:42 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 11:57:42 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 11:57:42 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 11:57:42 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 11:57:42 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 11:57:42 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 11:57:42 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 11:57:42 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 11:57:43 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 11:57:43 INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator     - HHH000397: Using ASTQueryTranslatorFactory
+2016-08-17 11:58:02 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 11:58:02 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 11:58:02 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 11:58:02 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 11:58:02 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 11:58:02 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 11:58:02 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 11:58:02 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 11:58:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 11:58:02 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 11:58:03 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 11:58:03 INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator     - HHH000397: Using ASTQueryTranslatorFactory
+2016-08-17 12:04:12 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 12:04:12 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 12:04:12 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 12:04:13 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 12:04:13 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 12:04:13 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 12:04:13 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 12:04:13 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 12:04:13 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 12:04:13 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 12:04:13 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 12:10:48 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 12:10:48 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 12:10:48 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 12:10:49 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 12:10:49 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 12:10:49 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 12:10:49 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 12:10:49 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 12:10:49 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 12:10:49 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 12:10:49 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 12:12:01 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 12:12:01 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 12:12:01 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 12:12:02 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 12:12:02 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 12:12:02 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 12:12:02 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 12:12:02 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 12:12:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 12:12:02 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 12:12:03 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 12:12:24 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 12:12:24 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 12:12:24 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 12:12:25 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 12:12:25 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 12:12:25 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 12:12:25 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 12:12:25 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 12:12:25 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 12:12:25 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 12:12:26 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 12:12:46 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 12:12:46 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 12:12:46 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 12:12:46 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 12:12:46 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 12:12:46 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 12:12:46 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 12:12:46 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 12:12:46 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 12:12:47 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 12:12:47 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 13:16:09 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 13:16:09 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 13:16:09 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 13:16:09 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 13:16:09 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 13:16:09 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 13:16:09 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 13:16:09 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 13:16:09 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 13:16:10 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 13:16:10 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
+2016-08-17 13:16:36 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {5.1.0.Final}
+2016-08-17 13:16:36 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2016-08-17 13:16:36 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2016-08-17 13:16:36 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-08-17 13:16:36 WARN  org.hibernate.orm.connections     - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-08-17 13:16:36 INFO  org.hibernate.orm.connections     - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+2016-08-17 13:16:36 INFO  org.hibernate.orm.connections     - HHH10001001: Connection properties: {user=root, password=****}
+2016-08-17 13:16:36 INFO  org.hibernate.orm.connections     - HHH10001003: Autocommit mode: false
+2016-08-17 13:16:36 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 5 (min=1)
+2016-08-17 13:16:37 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-08-17 13:16:37 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 5.1.0.Final
