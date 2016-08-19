@@ -51,4 +51,11 @@ public class AppTest {
         userService.delete(user);
     }
 
+    @Test
+    public void findUserByName(){
+        List<User> users = userService.findUserByName("gwang");
+        for (User user : users){
+            System.out.println(user.getId());
+        }
+    }
 }
