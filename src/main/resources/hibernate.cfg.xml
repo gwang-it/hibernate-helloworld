@@ -1,31 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE hibernate-configuration PUBLIC
-        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
-        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+        <!DOCTYPE hibernate-configuration PUBLIC
+                "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 
 <hibernate-configuration>
 
-    <session-factory>
-        <!-- Database connection settings -->
-        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://localhost:3306/hibernate</property>
-        <property name="connection.username">root</property>
-        <property name="connection.password">Ab521521</property>
-        <property name="connection.pool_size">5</property>
-        <!-- Number of stored records that every time get data from database to jdbc statement.
-        The more fetch size set, the less read times need and the more faster you get. -->
-        <property name="jdbc.fetch_size">50 </property>
-        <!--the number of updates (inserts, updates and deletes) that are sent to the database at one time for execution.
-        The more batch size set, the less times of sent sql query need, the more faster you get, but more memory cost.-->
-        <property name="jdbc.batch_size">23 </property>
+<session-factory>
+    <!-- Database connection settings -->
+    <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="connection.url">jdbc:mysql://localhost:3306/hibernate</property>
+    <property name="connection.username">root</property>
+    <property name="connection.password">Ab521521</property>
+    <property name="connection.pool_size">5</property>
+    <!-- Number of stored records that every time get data from database to jdbc statement.
+    The more fetch size set, the less read times need and the more faster you get. -->
+    <property name="jdbc.fetch_size">50 </property>
+    <!--the number of updates (inserts, updates and deletes) that are sent to the database
+     at one time for execution. The more batch size set, the less times of sent sql query
+     need, the more faster you get, but more memory cost.-->
+    <property name="jdbc.batch_size">23 </property>
 
-        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
-        <!-- Enable Hibernate's automatic session context management -->
-        <property name="current_session_context_class">thread</property>
-        <!-- Will show all sql statement sent in console -->
-        <property name="show_sql">true</property>
-        <!-- If table not exists hibernate will help you create according to the model class -->
-        <property name="hbm2ddl.auto">update</property>
-        <mapping class="com.gwangit.model.User"/>
-    </session-factory>
+    <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+    <!-- Enable Hibernate's automatic session context management -->
+    <property name="current_session_context_class">thread</property>
+    <!-- Will show all sql statement sent in console -->
+    <property name="show_sql">true</property>
+    <!-- If table not exists hibernate will help you create table according to the model class -->
+    <property name="hbm2ddl.auto">update</property>
+    <mapping class="com.gwangit.model.User"/>
+</session-factory>
 </hibernate-configuration>

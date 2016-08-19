@@ -57,5 +57,4 @@ public abstract class AbstractDao<T extends Serializable> implements InterfaceCo
         return sessionFactory.getCurrentSession();
     }
 
-
 }

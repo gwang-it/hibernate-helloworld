@@ -1,6 +1,5 @@
 package com.gwangit.model;
 
-
 import javax.persistence.*;
 import java.io.Serializable;
 
@@ -8,7 +7,7 @@ import java.io.Serializable;
 @Table(name = "tuser")
 public class User implements Serializable {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
 
